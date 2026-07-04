@@ -30,12 +30,12 @@ Includes a built-in interactive shell with Cisco-IOS-style contextual help: pres
 Clone the repo (or just download `bulk_rename.py`) and run it directly:
 
 ```bash
-git clone https://github.com/your-username/bulk-rename.git
+git clone https://github.com/Ignorablespoon/bulk-rename.git
 cd bulk-rename
 python3 bulk_rename.py --help
 ```
 
-Optional: make it executable and drop it on your `PATH`:
+Optional for Linux: make it executable and drop it on your `PATH`:
 
 ```bash
 chmod +x bulk_rename.py
