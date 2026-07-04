@@ -208,6 +208,3 @@ python3 bulk_rename.py create-folders ./clients --style list --names-file client
 - The tool refuses to proceed if a rename plan would cause two items to collide, or overwrite something outside the batch.
 - Renames are staged through temporary names internally so that swapping/cycling names (e.g. A→B, B→A) doesn't clobber anything mid-batch.
 
-## License
-
-MIT (or update this section to match your project's license).
